@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](TXT/links.md)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](links.md)
 
 ## Hello World
 
