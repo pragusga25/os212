@@ -2,7 +2,9 @@
 
 ## Hello World
 
-Hi, I am Taufik Pragusga. This is repository for Operating System Course 2021. Checkout my top 10 links every week:
+Hi, I am Taufik Pragusga. This is repository for Operating System Course 2021.
+
+<!-- Checkout my top 10 links every week: -->
 
 <!-- - [WEEK1](W01/)
 - [WEEK2](W02/)
