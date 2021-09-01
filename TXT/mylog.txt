@@ -6,3 +6,7 @@ ZCZC W00 100 L02 Synchronous Session
 ZCZC W00 20 L03 GitHub related
 ZCZC W00 5 L23 Discord: Registering, Reading Rules and discussions
 ZCZC W00 60 L06 Reading References/Books/Documents
+ZCZC W00 15 L10 Assignment #00
+ZCZC W00 15 L11 Assignment #01
+ZCZC W00 15 L12 Assignment #02
+ZCZC W00 15 L13 Assignment #03
