@@ -13,6 +13,7 @@ ZCZC W00 15 L13 Assignment #03
 ZCZC W00 15 L14 Assignment #04
 ZCZC W00 60 L15 Assignment #05
 ZCZC W00 120 L70 Learn Postgresql
+ZCZC W01 100 L02 Synchronous Session
 ZCZC W01 30 L11 Assignment #01
 ZCZC W01 15 L12 Assignment #02
 ZCZC W01 60 L13 Assignment #03
