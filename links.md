@@ -11,3 +11,9 @@ Pengguna VSCode sejati pasti sering mengalami masalah saat menggunakan vim, dan 
 
 ### 3. [Linux File System/Structure](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 Struktur file di sistem operasi linux bisa jadi membingungkan bagi pemula seperti saya. Kebiasaan menggunakan windows sejak lahir kadang menimbulkan error dan kebingungan saat menggunakannya. Video tersebut dapat membantu menyelesaikan masalah tersebut.
+
+### 4. [Best Linux Distro](https://www.techradar.com/best/best-linux-distros)
+Saat mengetahui terdapat berbagai distro di linux, pasti akan sangat membingungkan bagi orang-orang yang baru mengenalnya. Di laman ini terdapat penjelasan serta kekurangan kelebihan dari beberapa distro yang bisa dicoba untuk pemula.
+
+### 5. [Linux Commands](https://www.tutorialspoint.com/unix_commands/index.htm)
+Panik saat QUIZ kemarin? Laman ini dapat menjadi penyelamatnya!
