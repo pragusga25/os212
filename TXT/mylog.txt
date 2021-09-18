@@ -14,6 +14,7 @@ ZCZC W00 15 L14 Assignment #04
 ZCZC W00 60 L15 Assignment #05
 ZCZC W00 120 L70 Learn Postgresql
 ZCZC W01 100 L02 Synchronous Session
+ZCZC W01 100 L02 Synchronous Session
 ZCZC W01 30 L11 Assignment #01
 ZCZC W01 15 L12 Assignment #02
 ZCZC W01 60 L13 Assignment #03
@@ -21,3 +22,15 @@ ZCZC W01 30 L14 Assignment #04
 ZCZC W01 15 L15 Assignment #05
 ZCZC W01 20 L16 Assignment #06
 ZCZC W01 60 L17 Assignment #07
+ZCZC W02 100 L02 Synchronous Session
+ZCZC W02 250 L13 Watching 4 hours videos
+CZC W02  10 L14 Generate a GnuPG Key Pair
+ZCZC W02   5 L15 List of all GnuPG Keys
+ZCZC W02  10 L16 Importing ospubkey.txt Key
+ZCZC W02   5 L17 Signing os key
+ZCZC W02   5 L18 Exporting mypubkey.txt
+ZCZC W02   5 L19 Updated Links.md with some links
+ZCZC W02  60 L10 Reading chapter 16
+ZCZC W02   5 L09 Writing this
+ZCZC W02  15 L11 Trying C Demo
+ZCZC W02  30 L09 Copying and using myscript.sh to make SHA256SUM and SHA256SUM.asc
