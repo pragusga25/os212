@@ -34,3 +34,12 @@ ZCZC W02  60 L10 Reading chapter 16
 ZCZC W02   5 L09 Writing this
 ZCZC W02  15 L11 Trying C Demo
 ZCZC W02  30 L09 Copying and using myscript.sh to make SHA256SUM and SHA256SUM.asc
+ZCZC W03 100 L02 Zoom meeting with lecturer
+ZCZC W03 120 L05 GSGS about this week's material
+ZCZC W03  60 L23 Discord: discuss about this week's topic
+ZCZC W03 100 L21 Youtube: Watch some motivational videos
+ZCZC W03   5 L14 Cheking bash asliases
+ZCZC W03  60 L15 Create extra virtual disk, done a - e
+ZCZC W03  10 L16 Updating links
+ZCZC W03  30 L17 Update peer links to the next 10
+ZCZC W03   5 L19 Submitting the week 3 assignments
