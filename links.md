@@ -38,3 +38,33 @@ I personally don't really understand about this file systems stuff since it work
 
 ### 12. [Free Space Management](https://www.includehelp.com/operating-systems/free-space-management.aspx)
 What this site is trying to tell us about is of course the free space management itself. It's a pretty short article and they use some bullet points to write the advantages and disadvantages of each free space management technique.
+
+### 13. [Little or Big Endian Machine?](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+Remember these words when we're taking the Introduction to Computer Organization class? Yea, Operating System is is the continuation of that class, so we're facing those words again here. I believe some of us might be surprised with the morning pop quiz that asked whether our machine is using Little Endian or Big Endian. So here comes the answer for that!
+
+### 14. [Bit, Byte, Nibble?](https://byte-notes.com/bit-byte-nibble-kilobyte/)
+As a programmer, we should know the units we're playing with. These unit mainly tell us about the capacity of some standard data storage system or communication channel. The most commonly used units are the bit and byte. Of course there are so many other units, and you can see it on this site.
+
+### 15. [Memory Management Unit](https://linuxhint.com/swap_memory_linux/)
+A memory management unit is a hardware that handles virtual memory and caching operations. It's usually located within the computer’s central processing unit (CPU). Want to know more about this MMU? You can check this page.
+
+### 16. [Swap Memory in Linux](https://linuxhint.com/swap_memory_linux/)
+When I was setting virtual operating system, there was this swap memory thing that neither I nor my friends do understand. Turns out, swap memory is a very important part of our computer, that is used whenever our RAM runs out of memory. This article written by Karim Budzar will give you a clearer understanding of it.
+
+### 17. [Memory Allocation: First, Best, Worst Fit Allocation Strategy](https://www.tutorialspoint.com/operating_system/os_memory_allocation_qa2.htm)
+So many strategies about memory allocation out there, even it's more than I can chew. But this webpage gives us a brief explanation about some of them in a nice way. Not only those 3 I mentioned in the title, but it also tells us about Buddy's system and Next fit strategy.
+
+### 18. [Parameter Passing Techniques in C](https://www.geeksforgeeks.org/parameter-passing-techniques-in-c-cpp/)
+In C, there are different ways in which parameter data is passed into a functions. Some of them that might be familiar to us are passing by value and passing by reference. For those of you who are still confused about the difference between the two, or want to know more about other parameter passing techniques, go check this page.
+
+### 19. [C Pointers](https://iq.opengenus.org/pointers-in-c/)
+One of the hardest topics that come when you're learning C is pointers. It's a relatively old concept that doesn't exist in many newer programming languages (as far as I know), or maybe it's just rarely used. I hope this site can help you in understanding pointers with some illustrations they displayed.
+
+### 20. [Logical and Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+Logical and physical addresses are basically address. So what are the differences between them? Go and find out on this site which I personally think serves the information neatly and makes it easy to understand. It's also really short and comes with some pictures.
+
+### 21. [Page Table](https://www.gatevidyalay.com/page-table-paging-in-operating-system/)
+Page table simply is a data structure that maps the page number referenced by the CPU. On this site, you'll learn about the page table itself and its entry. They explained it with some bullets so it'll be easier for us to grasp the information.
+
+### 22. [C in a Nutshell](https://github.com/AGHABEY/Books/blob/master/c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford.pdf)
+This week's topic is about C, and I believe that there are already so many sources on the internet that give us information about it. But I have friends who still think that nothing can replace a book. So here is a book about C you can rely on.

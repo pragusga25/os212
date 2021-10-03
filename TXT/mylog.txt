@@ -24,7 +24,7 @@ ZCZC W01 20 L16 Assignment #06
 ZCZC W01 60 L17 Assignment #07
 ZCZC W02 100 L02 Synchronous Session
 ZCZC W02 250 L13 Watching 4 hours videos
-CZC W02  10 L14 Generate a GnuPG Key Pair
+ZCZC W02  10 L14 Generate a GnuPG Key Pair
 ZCZC W02   5 L15 List of all GnuPG Keys
 ZCZC W02  10 L16 Importing ospubkey.txt Key
 ZCZC W02   5 L17 Signing os key
@@ -43,3 +43,13 @@ ZCZC W03  60 L15 Create extra virtual disk, done a - e
 ZCZC W03  10 L16 Updating links
 ZCZC W03  30 L17 Update peer links to the next 10
 ZCZC W03   5 L19 Submitting the week 3 assignments
+ZCZC W04 100 L02 Weekly lecture Zoom meeting
+ZCZC W04  15 L14 Assignment Week 04 (Install Package List 2 (TLPI))
+ZCZC W04  30 L15 Assignment Week 04 (Do things with WEEK04.tar.bz2.asc)
+ZCZC W04   5 L18 Assignment Week 04 (Update mylog.txt)
+ZCZC W04   5 L19 Assignment Week 04 (Submit assignment)
+ZCZC W04  30 L16 Assignment Week 04 (Update LINKS)
+ZCZC W04  30 L17 Assignment Week 04 (Peer links)
+ZCZC W04  15 L18 Assignment Week 04 (Update mylog.txt) 
+ZCZC W04 120 L64 Help friends related to assignment week 04
+ZCZC W04 240 L70 Learn NestJS 
