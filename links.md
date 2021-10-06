@@ -68,3 +68,33 @@ Page table simply is a data structure that maps the page number referenced by th
 
 ### 22. [C in a Nutshell](https://github.com/AGHABEY/Books/blob/master/c-in-a-nutshell-o-reilly-peter-prinz-tony-crawford.pdf)
 This week's topic is about C, and I believe that there are already so many sources on the internet that give us information about it. But I have friends who still think that nothing can replace a book. So here is a book about C you can rely on.
+
+### 23. [Malloc di C](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
+Halaman ini menjelaskan tentang apa itu memory allocation beserta dengan 2 jenisnya yaitu static memory allocation dan dynamic memory allocation. Selain itu, dibahas juga beberapa hal yang harus diperhatikan saat menggunakan memory allocation. Laman ini cukup singkat dan to the point, disertai dengan gambar, serta mencantumkan joke di dalamnya.
+
+### 24. [Cara untuk Meng-handle Thrashing](https://byte-notes.com/bit-byte-nibble-kilobyte/)
+Pembahasan tentang thrashing diulas cukup dalam, mulai dari definisi dan 2 teknik untuk mengatasinya. Bahasa yang digunakan cukup mudah dimengerti dan terdapat gambar juga untuk mempermudah kita dalam memahaminya.
+
+### 25. [Physical Vs Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)
+Sesuai dengan judulnya, laman web ini membahas tentang perbedaan physical dan virtual memory. Sebelum itu, tentunya dibahas juga mengenai apa itu physical memory dan virtual memory itu sendiri. Perbandingan yang dijabarkan di laman ini disajikan dengan side-to-side sehingga mudah dipahami. Selain itu, terdapat juga beberapa ilustrasi di dalamnya.
+
+### 26. [Apa itu Kernel?](https://www.youtube.com/watch?v=mycVSMyShk8)
+Video 10 menit ini menjelaskan tentang kernel dengan cukup mendalam. Penjelasannya sangat jelas ditemani dengan aksen british dari Sang pembicaranya. Di tengah video, ia juga memberikan beberapa animasi.
+
+### 27. [Page Replacement](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)
+Apa itu paging, page fault, dan bagaimana page replacement dilakukan? Laman ini membahas hal-hal tersebut, dan berfokus pada page replacement algorithm. Terdapat pula visualisasi dari masing-masing algoritma beserta dengan step-by-stepnya.
+
+### 28. [Perbedaan Memory dan Storage](https://www.backblaze.com/blog/whats-diff-ram-vs-storage/)
+Kebanyakan orang masih salah paham tentang memory dan storage. Selain membahas tentang perbedaannya, dibahas juga pengaruhnya terhadap komputer. Artikelnya cukup singkat dan bahasa yang digunakan juga mudah dipahami.
+
+### 29. [Mengecek Penggunaan RAM di Linux](https://linuxconfig.org/how-to-monitor-ram-usage-on-linux)
+Sering menggunakan task manager untuk memantau penggunaan RAM, CPU, dan lain-lain di windowsmu? Terdapat juga cara untuk memantau penggunaan RAM di linux. Step-by-step yang diberikan sangat jelas dan disertai dengan penjelasan, sehingga kita juga dapat memahami apa yang kita sedang lakukan.
+
+### 30. [Top dan kustomisasinya](https://haydenjames.io/linux-top-customize-it/)
+Kebingungan saat menjalankan Top? Semua command yang dapat digunakan saat menggunakan top dicantumkan dan dijelaskan dengan baik di laman ini.
+
+### 31. [Fork di C](https://www.geeksforgeeks.org/fork-system-call/)
+Dalam bahasa pemrograman C, ada sebuah fungsi bernama fork() yang kegunaannya dijelaskan secara rinci di web geeksforgeeks ini. Dan seperti kebanyakan artikel yang ada di geeksforgeeks, terdapat contoh penggunaan dan beberapa ilustrasi yang sangat membantu.
+
+### 32. [Belady's Anomaly](https://prepinsta.com/operating-systems/beladys-anomaly/)
+Pembahasan di laman ini mengenai Belady's Anomaly sangat baik menurut saya. Mulai dari definisi, penyebab, dan cara mengatasinya dibahas dengan jelas. Tiap section dipisahkan juga dengan baik dan hampir di setiap section terhadap gambar yang akan memudahkan pembaca dalam memahaminya.
