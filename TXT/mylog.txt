@@ -53,3 +53,9 @@ ZCZC W04  30 L17 Assignment Week 04 (Peer links)
 ZCZC W04  15 L18 Assignment Week 04 (Update mylog.txt) 
 ZCZC W04 120 L64 Help friends related to assignment week 04
 ZCZC W04 240 L70 Learn NestJS 
+ZCZC W05 100 L10 Work on assignment of W05
+ZCZC W05 180 L30 Udemy: Learn Web development
+ZCZC W05  120 L86 Helping mom and my sister
+ZCZC W05 100 L02 Zoom meeting with lecturer
+ZCZC W05 120 L70 Studying Linear Algebra
+ZCZC W05 240 L84 Relax, Rest, and Sleep
