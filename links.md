@@ -98,3 +98,33 @@ Dalam bahasa pemrograman C, ada sebuah fungsi bernama fork() yang kegunaannya di
 
 ### 32. [Belady's Anomaly](https://prepinsta.com/operating-systems/beladys-anomaly/)
 Pembahasan di laman ini mengenai Belady's Anomaly sangat baik menurut saya. Mulai dari definisi, penyebab, dan cara mengatasinya dibahas dengan jelas. Tiap section dipisahkan juga dengan baik dan hampir di setiap section terhadap gambar yang akan memudahkan pembaca dalam memahaminya.
+
+### 33. [Multithreading vs Hyper Threading](https://pediaa.com/what-is-the-difference-between-hyper-threading-and-multithreading/)
+Halaman ini menjelaskan tentang *multithreading* yang ada di materi minggu ini, dan konsep baru yang bernama *hyper threading*. Penjelasan dimulai dengan definisi daru kedua konsep dan dilanjutkan dengan perbedaan keduanya. Artikel ini bagus karena dari awal sudah sudah memberi tahu inti perbedaan keduanya, lalu kemudian eksplanasi tentang kedua hal tersebut dan dilanjutkan dengan perbedaannya lagi dengan lebih mendalam
+
+### 34. [Intro to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Artikel ini menjelaskan seputar *synchronization* dan kapan ia diperlukan. Seperti biasa, artikel dari GeeksforGeeks selalu mengandung gambar yang memudahkan pembaca dalam memahaminya. Selain itu, ada soal latihan juga yang dapat dikerjakan untuk melatih pemahaman kita.
+
+### 35. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+Setelah sebelumnya membahas tentang *synchronization*, artikel lanjutan ini membahas tentang *concurrency* yang sering dibahas juga di beberapa mata kuliah akhir-akhir ini. Pembahasan cukup komprehensif mulai dari prinsip-prinsipnya, permasalahan yang sering muncul, hingga keuntungan dan kerugian saat menggunakan *concurrency*. Pembahasannya sangat *to the point* dan terdapat *link* ke artikel lain untuk mengetahui istilah yang disebutkan lebih lanjut.
+
+### 36. [Process](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+Cukup sulit untuk memahami apa itu suatu proses di dalam komputer. Namun artikel ini mampu membahasnya secara jelas mulai dari apa saja komponen yang terlibat hingga *lifecycle*-nya. Penjelasan disertai dengan gambar, contoh *code*, dan bahasa yang mudah dipahami membuatnya menjadi salah satu artikel yang sangat saya rekomendasikan.
+
+### 37. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/)
+*Fork* pasti sering kita dengar, namun penjelasannya tidak semudah itu untuk dipahami. Dengan artikel ini, *fork* menjadi relatif lebih mudah dipahami karena artikelnya mencantumkan ilustrasi yang sangat membantu beserta dengan contoh penggunaannya secara langsung di bahasa C.
+
+### 38. [Orphan vs Zombie vs Daemon processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)
+Ternyata tidak hanya satu *process* yang terdapat di sebuah sistem operasi. *Process* dapat dikelompokkan lagi menjadi beberapa jenis sesuai dengan kondisinya. Artikel ini memberikan penjelasan dengan sangat jelas, relatif singkat, dan bahasa yang mudah dimengerti.
+
+### 39. [Long Term and Short Term Scheduler](https://www.tutorialspoint.com/difference-between-long-term-and-short-term-scheduler)
+Sesuai dengan judulnya, laman ini berisikan informasi mengenai apa itu *long term scheduler* dan *short term scheduler*. Penjelasannya sangat *to the point* dan singkat. Perbedaan antara keduanya juga disajikan dalam bentuk tabel sehingga menjadi lebih jelas.
+
+### 40. [Multiprocessing vs Multithreading](https://www.geeksforgeeks.org/difference-between-multiprocessing-and-multithreading/)
+Setelah memahami tentang *process* dan *thread*, artikel ini akan memberikan pemahaman lebih dalam tentang  *multiprocessing* dan *multithreading*. Yang membuat artikel ini menjadi menarik menurut saya adalah penjelasannya yang disertai dengan gambar dan kunci perbedaan kedua hal tersebut yang disajikan dalam bentuk tabel.
+
+### 41. [Multiprogramming dan Multitasking](https://www.geeksforgeeks.org/difference-between-multitasking-multithreading-and-multiprocessing/)
+Selain *multiprocessing* dan *multithreading*, terdapat pula *multiprogramming* dan *multitasking* yang akan dijelaskan secara lebih lengkap di artikel ini. Penjelasannya menggunakan bahasa yang mudah dimengerti dan tentu saja disertai dengan ilustrasi untuk memudahkan kita dalam memahaminya, sehingga artikel ini sangat ramah terhadap pemula.
+
+### 42. [Moore's Law](https://www.investopedia.com/terms/m/mooreslaw.asp)
+Alasan terkuat yang membuat timbulnya hal-hal berbau *multi-core* adalah Moore's Law yang pembahasannya dapat dilihat lebih lengkap di artikel ini. Apa itu Moore's Law, sejarahnya, hingga ke pengaruhnya ke beberapa sektor dijelaskan secara gamblang di sini. Dengan gaya bahasanya yang mudah dimengerti dan *layout*-nya yang juga sangat ramah mata membuatnya menjadi artikel yang menarik untuk dibaca.

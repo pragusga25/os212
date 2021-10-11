@@ -59,3 +59,7 @@ ZCZC W05  120 L86 Helping mom and my sister
 ZCZC W05 100 L02 Zoom meeting with lecturer
 ZCZC W05 120 L70 Studying Linear Algebra
 ZCZC W05 240 L84 Relax, Rest, and Sleep
+ZCZC W06 100 L02 Weekly lecture Zoom meeting
+ZCZC W06 300 L70 Learn Graphql
+ZCZC W06 60 L09 Finish all assignments
+ZCZC W06 240 L70 Study linear algebra
