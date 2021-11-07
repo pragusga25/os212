@@ -128,3 +128,33 @@ Selain *multiprocessing* dan *multithreading*, terdapat pula *multiprogramming* 
 
 ### 42. [Moore's Law](https://www.investopedia.com/terms/m/mooreslaw.asp)
 Alasan terkuat yang membuat timbulnya hal-hal berbau *multi-core* adalah Moore's Law yang pembahasannya dapat dilihat lebih lengkap di artikel ini. Apa itu Moore's Law, sejarahnya, hingga ke pengaruhnya ke beberapa sektor dijelaskan secara gamblang di sini. Dengan gaya bahasanya yang mudah dimengerti dan *layout*-nya yang juga sangat ramah mata membuatnya menjadi artikel yang menarik untuk dibaca.
+
+### 43. [Race Condition](https://www.baeldung.com/cs/race-conditions)
+Laman ini tentu saja menjelaskan tentang *race condition*. Penjelasan di laman tersebut menggunakan bahasa yang sangat mudah dimengerti. Selain itu, terdapat juga beberapa contoh yang disediakan untuk memudahkan pembaca dalam memahami apa itu *race condition*.
+
+### 44. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Di sini penjelasan tentang deadlock diberikan dengan sangat baik. Selain itu, laman ini juga mejelaskan tentang cara mengantisipasi dan mengatasinya. Tentunya juga terdapat ilustrasi yang sangat membantu kita untuk mengerti lebih jauh tentang deadlock.
+
+### 45. [Critical Section Problem](https://www.tutorialspoint.com/critical-section-problem)
+Website ini menjelaskan tentang critical section dan hal apa yang harus dilakukan dalam mengatasinya. Penjelasan yang diberikan sangat singkat dan mudah dimengerti. Selain itu laman ini juga menyediakan gambar yang akan memperkaya pemahaman pembaca.
+
+### 46. [Semaphore](https://www.guru99.com/semaphore-in-operating-system.html)
+Penjelasan tentang semaphore yang diberikan laman ini sangat komprehensif. Mulai dari definisi, tipe, hingga kelebihan dan kekurangannya dibahas dengan sangat jelas. Diberikan juga beberapa potongan kode dan ilustrasi yang akan memudahkan pembaca, serta hyperlink yang akan memudahkan navigasi. 
+
+### 47. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)
+Peterson's Algorithm dijelaskan dengan sangat baik di laman ini. Ilustrasi, penggalan kode, dan bahasa yang jelas jadi nilai tambah bagi laman ini.
+
+### 48. [Starvation](https://www.educative.io/edpresso/what-is-a-starvation-problem-in-an-operating-system)
+Starvation yang cenderung mirip dengan deadlock dijelaskan dengan sangat baik di sini. Selain bahasanya yang mudah dimengerti, diberikan juga tabel perbandingan yang akan membuat pembaca semakin memahami lebih dalam tentang starvation.
+
+### 49. [Banker’s Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)
+Laman ini menjelaskan tentang Banker's Algorithm yang berhubungan dengan deadlock. Selain menjelaskan hal-hal teknis, laman ini juga menjelaskan mengapa algoritma tersebut dinamakan demikian. Seperti biasa, tentu saja terdapat ilustrasi di dalamnya yang akan memudahkan pembaca dalam memahami hal tersebut.
+
+### 50. [Sticky Bit](https://www.thegeekstuff.com/2013/02/sticky-bit/)
+Sticky bit yang sejatinya telah dikenal sejak lama di dunia komputer dijelaskan dengan sangat baik di laman ini. Dengan penjelasan yang sangat lugas disertai dengan contoh yang sangat membantu, menjadikan laman ini masuk dalam rekomendasi saya minggu ini.
+
+### 51. [Readers-Writers Problem](https://www.tutorialspoint.com/readers-writers-problem)
+Masih berkaitan dengan materi minggu ini, terdapat satu masalah yang umum ditemukan yaitu Readers and Writers Problem. Penjelasan dari laman ini sangat baik karena singkat dan disertai dengan penggalan kode yang akan memudahkan kita sebagai pembaca dalam memahami konteks yang diberikan.
+
+### 52. [Dining Philosophers Problem](https://www.tutorialspoint.com/dining-philosophers-problem-dpp)
+Dining Philosophers Problem yang juga merupakan salah satu masalah yang umum ditemukan di sistem operasi. Laman ini akan membahas definisi dan solusinya dengan sangat baik dan singkat. Selain itu, akan terdapat potongan kode yang tentunya akan memudahkan pengguna dalam memahaminya.

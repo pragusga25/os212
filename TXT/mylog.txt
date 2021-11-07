@@ -63,3 +63,14 @@ ZCZC W06 100 L02 Weekly lecture Zoom meeting
 ZCZC W06 300 L70 Learn Graphql
 ZCZC W06 60 L09 Finish all assignments
 ZCZC W06 240 L70 Study linear algebra
+ZCZC W07 120 L02 Zoom class
+ZCZC W07 120 L11 Reading
+ZCZC W07  60 L12 Trying Demo
+ZCZC W07  45 L14 Assignment done
+ZCZC W07  60 L15 Searching good links
+ZCZC W07  30 L17 Peer review
+ZCZC W07  15 L18 Doing it now
+ZCZC W07  05 L19 Will do
+ZCZC W07  30 L86 House Chore
+ZCZC W07  60 L63 Fixing GPU not working
+ZCZC W07  30 L82 Cyber security recognition paper
