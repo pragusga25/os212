@@ -158,3 +158,33 @@ Masih berkaitan dengan materi minggu ini, terdapat satu masalah yang umum ditemu
 
 ### 52. [Dining Philosophers Problem](https://www.tutorialspoint.com/dining-philosophers-problem-dpp)
 Dining Philosophers Problem yang juga merupakan salah satu masalah yang umum ditemukan di sistem operasi. Laman ini akan membahas definisi dan solusinya dengan sangat baik dan singkat. Selain itu, akan terdapat potongan kode yang tentunya akan memudahkan pengguna dalam memahaminya.
+
+### 53. [Intro to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=36)
+Ini adalah sebuah video yang membahas tentang CPU Scheduling. Di dalamnya, tersaji pembahasan yang sangat mudah dipahami. Selain itu, banyak analogi atau ilustrasi yang disediakan pembuat video untuk membuat kita lebih mudah dalam memahaminya.
+
+### 54. [CPU and I/O Burst Cycles](https://www.youtube.com/watch?v=pVzb3TUcDLo&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=37)
+Video ini adalah kelanjutan dari video sebelumnya. Topik yang dibahas adalah seputar CPU dan I/O Burst. Penjelasan yang diberikan dimulai dari dasar-dasar, lalu pembahasan, kemudian penegasan kembali yang akan membuat kita semakin paham akan penjelasannya.
+
+### 55. [Preemptive vs Non-Preemptive Scheduling](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)
+Masih seputar CPU Scheduling, di artikel ini akan dibahas perbedaan antara Preemptive dan Non-Preemptive Scheduling. Pembahasannya dimulai dengan definisi keduanya, lalu dilanjutkan dengan membandingkan secara langsung perbedaan di antara keduanya. Keuntungan dan kerugian dalam menggunakannya juga ditulis menggunakan bullet points sehingga menjadi lebih singkat.
+
+### 56. [CPU Scheduling Algorithms](https://www.guru99.com/cpu-scheduling-algorithms.html)
+Terdapat beberapa algoritma scheduling di CPU. 6 yang utama dibahas di artikel ini dengan sangat singkat, padat, dan jelas. Karakteristik dari masing-masing juga dielaborasi dengan baik. Di akhir, penulis juga memberikan ringkasan dari penjelasan yang sudah diberikan sebelumnya.
+
+### 57. [Asymmetric vs Symmetric Multiprocessing](https://www.tutorialspoint.com/difference-between-asymmetric-and-symmetric-multiprocessing)
+Artikel ini membahas tentang Asymmetric dan Symmetric Multiprocessing. Pembahasannya singkat dan mudah dimengerti. Kemudian ada tabel perbandingan yang akan menunjukkan kunci perbedaan keduanya.
+
+### 58. [Non-Uniform Memory Access](http://www.techplayon.com/what-is-numa-non-uniform-memory-access/)
+NUMA yang yang merupakan arsitektur baru dibahas di artikel ini. Penjelasannya dimulai dengan sejarahnya, lalu ke definisinya. Juga terdapat beberapa gambar yang akan memberikan kejelasan lebih lanjut terkait dengan NUMA ini.
+
+### 59. [Load Balancing](https://avinetworks.com/what-is-load-balancing/)
+Penjelasan tentang Load Balancing di artikel ini sangatlah lengkap. Dimulai dari definisi, sejarah, hingga ke algoritma yang digunakan dalam load balancing dikupas sampai tuntas. Tampilan yang bersih dan penjelasan yang singkat menjadi nilai tambah bagi artikel ini.
+
+### 60. [Hard vs Soft Real Time System](https://www.geeksforgeeks.org/difference-between-hard-real-time-and-soft-real-time-system/)
+Artikel ini membahas tentang hard dan soft real time system. Penjelasannya sangat singkat namun mudah dimengerti. Juga ada tabel perbandingan yang memberikan secara jelas perbedaan antara 2 hal ini.
+
+### 61. [Multi-Core Processors](https://socs.binus.ac.id/2017/03/27/multi-core-processors/)
+Di masa ini, multi-core processor menjadi hal yang sangat lazim ditemui di perangkat terbaru. Penjelasan mengenai multi-core processor di artikel ini akan membuat kita lebih paham mengenai hal tersebut. Terdapat pengenalan, contoh, hingga tantangan apa yang dihadapi multi-processor dan semuanya dibahas dengan bahasa yang mudah dimengerti.
+
+### 62. [Big O Notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
+Topik yang telah dipelajari di mata kuliah sebelumnya ini cukup menarik untuk di-refresh kembali. Artikel yang satu ini membahas secara lengkap dan komprehensif tentang Big O. Juga terdapat contoh dan ilustrasi yang tentunya akan memudahkan pembaca dalam memahami hal tersebut.

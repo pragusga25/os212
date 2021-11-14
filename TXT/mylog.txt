@@ -74,3 +74,14 @@ ZCZC W07  05 L19 Will do
 ZCZC W07  30 L86 House Chore
 ZCZC W07  60 L63 Fixing GPU not working
 ZCZC W07  30 L82 Cyber security recognition paper
+ZCZC W08  60 L11 reading
+ZCZC W08  30 L12 demo
+ZCZC W08  60 L13 Trying some problems
+ZCZC W08 120 L14 Doing LFS
+ZCZC W08 240 L15 It's running in the background
+ZCZC W08  10 L16 Choosing links
+ZCZC W08  30 L18 Reviewing peers
+ZCZC W08  15 L19 Doing it rn
+ZCZC W08 120 L25 Scripting bash for TP's reason
+ZCZC W08  60 L24 Relearning bash and regex
+ZCZC W08 120 Weekly lecture Zoom Meeting
