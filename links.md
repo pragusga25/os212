@@ -188,3 +188,22 @@ Di masa ini, multi-core processor menjadi hal yang sangat lazim ditemui di peran
 
 ### 62. [Big O Notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 Topik yang telah dipelajari di mata kuliah sebelumnya ini cukup menarik untuk di-refresh kembali. Artikel yang satu ini membahas secara lengkap dan komprehensif tentang Big O. Juga terdapat contoh dan ilustrasi yang tentunya akan memudahkan pembaca dalam memahami hal tersebut.
+
+### 63. [Algoritma Shortest Job First ↔](https://www.guru99.com/shortest-job-first-sjf-scheduling.html)<br>
+Algoritma Shortest Job First merupakan salah satu algoritma dalam CPU Scheduling. Sesuai dengan artinya, algoritma ini akan memproses process yang memiliki waktu eksekusi terpendek. Pada Shortest Job First terdapat istilah Preemptive dan Non-Preemptive, cek link di atas untuk tahu apa perbedaan ###keduanya.
+
+### 64. [Algoritma Round Robin 🟢](https://www.guru99.com/round-robin-scheduling-example.html)<br>
+Penamaan algoritma ini berasal dari Round Robin Principle, di mana setiap orang mendapat pembagian yang sama. Algoritma ini merupakan algoritma tertua dan paling simpel.
+
+### 65. [Algoritma Priority Based Scheduling ✅](https://www.guru99.com/priority-scheduling-program.html)<br>
+Sesuai dengan namanya, algoritma ini akan memproses process sesuai dengan priority yang dimilikinya. Process yang memiliki prioritas tertinggi akan dikerjakan terlebih dahulu, sedangkan process dengan prioritas rendah akan dikerjakan di akhir.
+
+### 66. [Lebih Lanjut Mengenai Preemptive dan Non-Preemptive ❔](https://www.tutorialspoint.com/preemptive-and-non-preemptive-scheduling)<br>
+Pada beberapa algoritma scheduling, algoritma tersebut dibagi menjadi preemptive dan non-preemptive. Apakah perbedaan keduanya dan kapah hal tersebut dapat terjadi? Cek website di atas ya 😁
+
+### 67. [Arrival Time vs Burst Time 💨](https://www.geeksforgeeks.org/difference-between-arrival-time-and-burst-time-in-cpu-scheduling/)<br>
+Pada scheduling, kita mengenal beberapa jenis Time atau Waktu. Dua di antaranya adalah arrival time dan burst time. Mungkin nama keduanya cukup menggambarkan arti masing-masingnya, tetapi apakah kenyataannya demikian? Cek website di atas.
+
+### 68. [Apa itu Linux from Scratch #️⃣](https://www.linuxfromscratch.org/)<br>
+Pada tugas W08, kita dikenalkan dengan Linux from Scratch (LFS). LFS merupakan sebuah project yang berisi intruksi mengenai cara untuk membuat Linux kita sendiri. Website di atas merupakan website utama LFS dan memiliki instruksi yang sangat detail mengenai tahapan yang perlu dilakukan.
+
