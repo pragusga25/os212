@@ -93,3 +93,6 @@ ZCZC W09  10 L17 Review my peer's links
 ZCZC W09  10 L18 Update links.md
 ZCZC W09   5 L19 Submit this week's assignments
 ZCZC W09 120 Weekly lecture Zoom Meeting
+ZCZC W10  60 L01 SCELE/Discord related
+ZCZC W10  75 L02 ZOOM meetings related
+ZCZC W10  90 L05 Quiz related: GSGS, quiz, etc

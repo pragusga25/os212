@@ -207,3 +207,8 @@ Pada scheduling, kita mengenal beberapa jenis Time atau Waktu. Dua di antaranya 
 ### 68. [Apa itu Linux from Scratch #️⃣](https://www.linuxfromscratch.org/)<br>
 Pada tugas W08, kita dikenalkan dengan Linux from Scratch (LFS). LFS merupakan sebuah project yang berisi intruksi mengenai cara untuk membuat Linux kita sendiri. Website di atas merupakan website utama LFS dan memiliki instruksi yang sangat detail mengenai tahapan yang perlu dilakukan.
 
+### 69. [Learn Mass Storage](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)  
+Storage is a central part of a system. We've learned in previous lecture (Intro to Computer Architecture) that there are several types of it. This website provides good explanation about the overview of mass storage hardware and the scheduling algorithm of it.
+
+### 70. [Overview of RAID Technology](https://www.prepressure.com/library/technology/raid)  
+You must have heard of the word "RAID" when talking about storage (like RAID 0, RAID 1, etc). Well, find out more about it here!
